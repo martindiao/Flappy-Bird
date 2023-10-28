@@ -267,6 +267,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -276,8 +277,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -298,6 +299,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -2045,6 +2048,87 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      allSprites_1: 4115799056644752151
+      allSprites_35: 2750412373591606401
+      allSprites_79: -8804984563185327975
+      allSprites_4: 4613807797825207284
+      allSprites_78: 4104651373764474332
+      allSprites_10: -6035086375851864279
+      allSprites_37: 9031788343297884021
+      allSprites_65: 8944564744958693003
+      allSprites_75: 2579424492004577193
+      allSprites_74: 5149485938303687023
+      allSprites_18: 8848792170186928318
+      allSprites_62: 579348394017392407
+      allSprites_7: 2735388897318128257
+      allSprites_50: 2550717419264466956
+      allSprites_16: -8658868818950227647
+      allSprites_52: 6410035097577264267
+      allSprites_3: 4186338327674485431
+      allSprites_77: -8324381293150807125
+      allSprites_56: -4492174385751066776
+      allSprites_80: 5455937504742587258
+      allSprites_51: -8666261307855221853
+      allSprites_17: -2956672446081353608
+      allSprites_19: -6945972834578249868
+      allSprites_54: -8964370918523150051
+      allSprites_31: -5838108802418745665
+      allSprites_28: -3441254710345409663
+      allSprites_61: 6401680096298470472
+      allSprites_70: -157958600227285870
+      allSprites_47: 5309365538873869766
+      allSprites_49: 8739215039312138090
+      allSprites_73: -8667410330224451064
+      allSprites_69: -7193463941102744986
+      allSprites_15: 2580223448816015579
+      allSprites_26: 7742668194229574471
+      allSprites_60: 5978196213819040146
+      allSprites_44: -2145306768118338641
+      allSprites_9: 282416252737926857
+      allSprites_72: 731086569677423512
+      allSprites_8: 663495385459409370
+      allSprites_6: -7500550919618139319
+      allSprites_5: 26543399900311582
+      allSprites_27: -8194270084972903977
+      allSprites_12: -5238900053111714054
+      allSprites_39: 314099892339167629
+      allSprites_13: -2213980802793497653
+      allSprites_38: -5229109809860366869
+      allSprites_63: 8885587404867102231
+      allSprites_67: 2861601366727222602
+      allSprites_23: -7051019216898820598
+      allSprites_29: -3293346216949136744
+      allSprites_11: -2136078446739444311
+      allSprites_30: -7536763816476157501
+      allSprites_33: 7805545736462253565
+      allSprites_68: 2816318611107300948
+      allSprites_58: 6670121236096366421
+      allSprites_48: 8476388154419464949
+      allSprites_53: 9103200327053159319
+      allSprites_14: -5226100391715379201
+      allSprites_55: -3515062938099697164
+      allSprites_76: 4288938133261946841
+      allSprites_22: -2939999767877219723
+      allSprites_43: -6386295029697213982
+      allSprites_40: 5627444766092019762
+      allSprites_57: -756127849044938340
+      allSprites_46: -4322266712734077735
+      allSprites_66: 3138179230125352137
+      allSprites_20: -8390859457098444957
+      allSprites_42: 3169600445760217204
+      allSprites_0: -7324231829956465912
+      allSprites_36: 4756927879790569156
+      allSprites_24: -4259155812400425851
+      allSprites_32: 5545876730957434678
+      allSprites_45: 6221237730126536887
+      allSprites_2: 7302204195151069045
+      allSprites_34: 4559164542077235425
+      allSprites_64: 4973663146996798178
+      allSprites_41: -146322915019743999
+      allSprites_21: 7079908034724693922
+      allSprites_59: -8611345068499402187
+      allSprites_71: 8908421850444803725
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
